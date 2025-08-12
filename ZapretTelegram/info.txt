@@ -1,0 +1,4 @@
+Версия данного обхода поддерживает Kali Linux, Windows, в будущем будет MacOS
+Поддерживает программы телеграмма такие как / Telegram Desktop, AioGram, 64Gram, Дальше будет больше.
+
+Command Autors : Zapretskiy 
